@@ -18,26 +18,13 @@
 - ✍️ I write CTF walkthroughs and security notes on my [blog](https://burak-bozkir.github.io/)
 - 🌱 Open to **cybersecurity internships** and collaboration on security projects
 
-## 🚀 Featured Projects
+## 🛠️ Projects
 
-### [Kali MCP Server](https://github.com/burak-bozkir/kali-mcp-server)
-A web dashboard + MCP integration for running common pentest tools from a single interface.
-
-- Wraps **nmap, sqlmap, gobuster, nikto, hydra, john, wpscan, enum4linux, dirb** and **Metasploit**
-- **Live output streaming** over WebSockets and scan cancellation
-- **Scan templates** (CRUD + 8 built-in presets)
-- **PDF report generation** for completed scans
-- Light / dark themed UI
-
-`Python` `Flask` `SQLite` `Socket.IO` `Kali Linux` `MCP`
-
-### [Cybersecurity Blog](https://burak-bozkir.github.io/)
-A static, dependency-free blog where I publish CTF writeups and security concepts.
-
-- Posts include: TryHackMe *Recruit* & *Support* writeups, Network Discovery with Nmap, XSS, TCP/IP Fundamentals, File Inclusion & Path Traversal
-- Markdown-based posts, light/dark theme, SEO basics (sitemap, Open Graph)
-
-`HTML` `CSS` `JavaScript` `Markdown` `GitHub Pages`
+| Project | What it does |
+|---|---|
+| [Kali MCP Server](https://github.com/burak-bozkir/kali-mcp-server) | Web dashboard + MCP server that lets an AI assistant run Kali pentest tools, with live output and PDF reports |
+| [recon-reporter](https://github.com/burak-bozkir/recon-reporter) | AI-assisted recon: Nmap parsing + LLM next-step suggestions, every command human-approved |
+| [Cybersecurity Blog](https://burak-bozkir.github.io/) | TryHackMe writeups and security notes (Turkish) |
 
 ## 🛠️ Tools & Technologies
 
