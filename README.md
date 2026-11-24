@@ -11,7 +11,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Programming graduate from **Mersin University** (2023–2025, ranked 2nd in department); now studying **Management Information Systems** at Anadolu University
 - 🛡️ Focused on **offensive security** — web application testing, privilege escalation and Active Directory
 - 🤖 Interested in integrating **AI into cybersecurity** in ways that actually help, not just wrappers
 - 🧪 Currently in an international online internship on **Python, web development and AI/ML**
