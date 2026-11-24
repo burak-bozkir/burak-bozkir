@@ -13,9 +13,7 @@
 
 - 🛡️ Focused on **offensive security** — web application testing, privilege escalation and Active Directory
 - 🤖 Interested in integrating **AI into cybersecurity** in ways that actually help, not just wrappers
-- 🧪 Currently in an international online internship on **Python, web development and AI/ML**
 - ✍️ I write CTF walkthroughs and security notes on my [blog](https://burak-bozkir.github.io/)
-- 🌱 Open to **cybersecurity internships** and collaboration on security projects
 
 ## 🛠️ Projects
 
@@ -24,22 +22,6 @@
 | [Kali MCP Server](https://github.com/burak-bozkir/kali-mcp-server) | Web dashboard + MCP server that lets an AI assistant run Kali pentest tools, with live output and PDF reports |
 | [recon-reporter](https://github.com/burak-bozkir/recon-reporter) | AI-assisted recon: Nmap parsing + LLM next-step suggestions, every command human-approved |
 | [Cybersecurity Blog](https://burak-bozkir.github.io/) | TryHackMe writeups and security notes (Turkish) |
-
-## 🛠️ Tools & Technologies
-
-**Languages & Frameworks**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,sqlite,bash" alt="Languages" />
-</p>
-
-**Platforms & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode,obsidian,notion" alt="Tools" />
-</p>
-
-**Security Toolkit:** Nmap · Burp Suite · Metasploit · sqlmap · Gobuster · Hydra · John the Ripper · LinPEAS · WPScan
 
 ---
 
